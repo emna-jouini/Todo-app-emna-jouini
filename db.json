@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "id": "2",
+      "title": "Designers",
+      "date": "2023-11-17",
+      "description": "Call the design agency to finalize the models",
+      "done": false
+    },
+    {
+      "id": "3",
+      "title": "Recruiters",
+      "date": "2023-11-20",
+      "description": "Contact recruiters about the new position to be filled",
+      "done": false
+    },
+    {
+      "id": "0",
+      "title": "IT",
+      "date": "2024-01-27",
+      "description": "IT Description",
+      "done": false
+    },
+    {
+      "id": 0,
+      "title": "Meeting",
+      "date": "2024-01-26",
+      "description": "Meeting",
+      "done": false
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "login": "mail@gmail.com",
+      "password": "bingo",
+      "token": "ffo33dde"
+    }
+  ]
+}
