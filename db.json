@@ -16,16 +16,16 @@
     },
     {
       "id": "0",
-      "title": "IT",
-      "date": "2024-01-27",
-      "description": "IT Description",
-      "done": false
+      "title": "Meeting",
+      "date": "2024-01-26",
+      "description": "Meeting 1",
+      "done": true
     },
     {
       "id": 0,
-      "title": "Meeting",
+      "title": "Task1",
       "date": "2024-01-26",
-      "description": "Meeting",
+      "description": "Task",
       "done": false
     }
   ],
